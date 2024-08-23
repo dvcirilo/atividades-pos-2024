@@ -93,7 +93,7 @@ Esse é o repositório base para as tarefas da disciplina de POS.
 ---
 ## Tarefa 10 - Cliente SOAP com Zeep
 - Crie um diretório `clients` na raiz do repositório
-- Dentro do repositório faça a tarefa do slide 12 da aula 12 [link](https://dvcirilo.github.io/pos-ifrn/build/aula12.html#9)
+- Dentro do repositório faça a tarefa do slide 12 da aula 12 [link](https://dvcirilo.github.io/pos-ifrn/build/aula12.html#12)
 - Utilize os nomes de arquivos sugeridos na tarefa.
 - Commit/Push
 
