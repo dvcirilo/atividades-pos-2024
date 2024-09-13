@@ -98,3 +98,11 @@ Esse é o repositório base para as tarefas da disciplina de POS.
 - Commit/Push
 
 **Prazo: 23/08/2024**
+
+---
+## Tarefa 11 - Cliente SUAP com API Keys
+- Crie um diretório `clients` na raiz do repositório
+- Dentro do repositório faça a tarefa do slide 8 da aula 13 [link](https://dvcirilo.github.io/pos-ifrn/build/aula13.html#8)
+- Commit/Push
+
+**Prazo: 13/09/2024**
