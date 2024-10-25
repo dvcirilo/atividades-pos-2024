@@ -106,3 +106,19 @@ Esse é o repositório base para as tarefas da disciplina de POS.
 - Commit/Push
 
 **Prazo: 13/09/2024**
+
+---
+## Tarefa 12 - Cliente JS
+- Crie um diretório `js` na raiz do repositório
+- Dentro do repositório faça a tarefa do slide 29 da aula 14 [link](https://dvcirilo.github.io/pos-ifrn/build/aula14.html#29)
+- Commit/Push
+
+**Prazo: 18/10/2024**
+
+---
+## Tarefa 13 - Cliente JS Vanilla com Vite.js
+- Crie um diretório `cliente-vite` na raiz do repositório
+- Dentro do repositório faça a tarefa do slide 35 da aula 14 [link](https://dvcirilo.github.io/pos-ifrn/build/aula14.html#35)
+- Commit/Push
+
+**Prazo: 28/10/2024**
