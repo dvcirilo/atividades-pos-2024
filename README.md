@@ -122,3 +122,20 @@ Esse é o repositório base para as tarefas da disciplina de POS.
 - Commit/Push
 
 **Prazo: 28/10/2024**
+
+---
+## Tarefa 14 - Cliente JS React com Vite.js
+- Crie um diretório `cliente-react` na raiz do repositório
+- Dentro do repositório converta o código da tarefa 13 em uma estrutura React, usando componentes.
+- Commit/Push
+
+**Prazo: 01/12/2024**
+
+---
+## Tarefa 15 - Serviço DRF e Cliente JS
+- Crie um diretório `drf` na raiz do repositório para o serviço [link](https://dvcirilo.github.io/pos-ifrn/build/aula16.html#8)
+- Crie um diretório `cliente-spotifake` na raiz do repositório para o cliente [link](https://dvcirilo.github.io/pos-ifrn/build/aula16.html#8)
+- O cliente/serviço devem funcionar em conjunto.
+- Commit/Push
+
+**Prazo: 20/12/2024**
